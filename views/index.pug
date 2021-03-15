@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  div.container.has-text-centered
+    h1.is-size-3 Cocktails Disponibles
+    div.menu
+      if cocktails.length
+        ul.menu-list
+            each cocktail in cocktails
+              li
+                a.is-size-5(data-id=cocktail.id)= cocktail.name
+      else
+        p Aucun cocktail disponible

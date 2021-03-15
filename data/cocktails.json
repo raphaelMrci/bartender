@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Ti punch",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio sequi corporis, tempore quis laudantium quod deleniti ipsam fuga ut architecto placeat maiores est dolore, odit nam doloremque enim nostrum minima.",
+    "image": "tipunch.jpg",
+    "color": "greenyellow",
+    "ingredients": [
+      {
+        "id": 1,
+        "qty": 5
+      },
+      {
+        "id": 2,
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Planteur",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio sequi corporis, tempore quis laudantium quod deleniti ipsam fuga ut architecto placeat maiores est dolore, odit nam doloremque enim nostrum minima.",
+    "image": "planteur.jpg",
+    "color": "orange",
+    "ingredients": [
+      {
+        "id": 1,
+        "qty": 5
+      },
+      {
+        "id": 2,
+        "qty": 2
+      },
+      {
+        "id": 3,
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vodka orange",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio sequi corporis, tempore quis laudantium quod deleniti ipsam fuga ut architecto placeat maiores est dolore, odit nam doloremque enim nostrum minima.",
+    "image": "v-orange.jpg",
+    "color": "orange",
+    "ingredients": [
+      {
+        "id": 4,
+        "qty": 5
+      },
+      {
+        "id": 3,
+        "qty": 15
+      }
+    ]
+  }
+  ,
+  {
+    "id": 4,
+    "name": "Cuba libre",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio sequi corporis, tempore quis laudantium quod deleniti ipsam fuga ut architecto placeat maiores est dolore, odit nam doloremque enim nostrum minima.",
+    "image": "c-libre.jpg",
+    "color": "black",
+    "ingredients": [
+      {
+        "id": 1,
+        "qty": 5
+      },
+      {
+        "id": 5,
+        "qty": 15
+      }
+    ]
+  }
+]
